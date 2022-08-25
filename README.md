@@ -2,4 +2,4 @@
 
 # linkBio - Site
 
-<p> Apenas para tirar o tédio de uma tarde calma. </p>
+<p> Apenas para tirar o tédio de uma tarde calma :) </p>
